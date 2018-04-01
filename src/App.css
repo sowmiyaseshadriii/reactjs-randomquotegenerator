@@ -1,0 +1,12 @@
+body{
+  background: #f4f6c2;
+}
+p{
+  margin: 0;
+}
+.btn-group{
+  text-align: center;
+}
+button{
+  cursor: pointer;
+}
